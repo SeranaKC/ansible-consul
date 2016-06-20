@@ -31,7 +31,6 @@
   get_url: >
     url={{ consul_url }}
     dest={{ consul_download_dir }}/consul.zip
-    sha256sum={{ consul_sha256sum }}
   tags: consul
 
 - name: Unzip Consul to installation directory
