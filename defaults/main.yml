@@ -1,11 +1,11 @@
 ---
 # defaults file for consul
 
-consul_version: 0.5.2
-consul_sha256sum: 171cf4074bfca3b1e46112105738985783f19c47f4408377241b868affa9d445
+consul_version: 0.6.4
+#consul_sha256sum:
 
-consul_webui_version: 0.5.2
-consul_webui_sha256sum: ad883aa52e1c0136ab1492bbcedad1210235f26d59719fb6de3ef6464f1ff3b1
+consul_webui_version: 0.6.4
+#consul_webui_sha256sum:
 
 consul_server: false
 consul_webui: false
